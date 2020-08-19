@@ -1,0 +1,6 @@
+name: Yomes
+main: com.gmail.perhapsitisyeazz.Yomes
+version: 1.0.0
+api-version: '1.15'
+description: 'Home plugin'
+author: 'YeaZz_'
